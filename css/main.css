@@ -604,7 +604,7 @@ body {
   width: 90px;
   height: 72px;
   margin-bottom: 34px;
-  background-image: url(../../PICTURE/works1.svg);
+  background-image: url(../PICTURE/works1.svg);
 }
 
 .works__item2::before {
@@ -614,7 +614,7 @@ body {
   width: 98px;
   height: 72px;
   margin-bottom: 34px;
-  background-image: url(../../PICTURE/works2.svg);
+  background-image: url(../PICTURE/works2.svg);
 }
 
 .works__item3::before {
@@ -624,7 +624,7 @@ body {
   width: 98px;
   height: 72px;
   margin-bottom: 34px;
-  background-image: url(../../PICTURE/works3.svg);
+  background-image: url(../PICTURE/works3.svg);
 }
 
 .works__item-title {

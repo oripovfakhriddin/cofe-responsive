@@ -35,18 +35,7 @@
     }
 }
 
-// .works__design {
-//     width: 32px;
-//     height: 32px;
-//     border: 1px solid #0E8784;
-//     border-radius: 50%;
-// }
 
-// .design__line {
-//     width: 350px;
-//     height: 1px;
-//     border: 1px solid #FDD6BA
-// }
 
 .works__list {
     gap: 95px;
@@ -67,7 +56,7 @@
     width: 90px;
     height: 72px;
     margin-bottom: 34px;
-    background-image: url(../../PICTURE/works1.svg)
+    background-image: url(../PICTURE/works1.svg)
 }
 
 .works__item2::before {
@@ -77,7 +66,7 @@
     width: 98px;
     height: 72px;
     margin-bottom: 34px;
-    background-image: url(../../PICTURE/works2.svg)
+    background-image: url(../PICTURE/works2.svg)
 }
 
 .works__item3::before {
@@ -87,7 +76,7 @@
     width: 98px;
     height: 72px;
     margin-bottom: 34px;
-    background-image: url(../../PICTURE/works3.svg)
+    background-image: url(../PICTURE/works3.svg)
 }
 
 
